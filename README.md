@@ -45,7 +45,7 @@ The vis.js library was initially developed by [Almende B.V](http://almende.com).
 
 Install via npm:
 
-    $ npm install vis
+    $ npm install https://github.com/Genxx/vis/tarball/master
 
 Install via bower:
 
